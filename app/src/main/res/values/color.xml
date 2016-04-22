@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="primary_color">#428cb5</color>
+    <color name="primary_dark_color">#095d8b</color>
+    <color name="accent_color">#a00062</color>
+
+    <color name="inactive_color">#666666</color>
+    <color name="session_photo_scrim">#7e000000</color>
+
+</resources>
